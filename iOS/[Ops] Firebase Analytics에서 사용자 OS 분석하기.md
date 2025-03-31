@@ -1,3 +1,5 @@
+# Firebase Analytics에서 사용자 OS 분석하기
+
 EAT-SSU 서비스에서 커스텀 sheet를 도입하기 위해 최소 지원 버전을 15+→16+ 변경하려한다. 변경 이전에 현재 EAT-SSU 앱 사용자의 OS 버전을 알 필요가 있다. 
 
 <img width="486" alt="스크린샷 2025-03-21 오후 3 01 13" src="https://github.com/user-attachments/assets/b8c4ab84-b37a-443d-b265-fd837d91504f" />
